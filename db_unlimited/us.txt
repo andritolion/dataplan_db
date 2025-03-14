@@ -1,1 +1,3 @@
 *.rr.com
+*.res.spectrum.com
+*.sbcglobal.net
